@@ -17,7 +17,7 @@
 #include <sys/stat.h>
 #include <mach-o/stab.h> //desc
 
-#define FilePath "/Users/huke/Documents/copy zone/parseDisasmKexts_64orig" //导入的文件位置
+#define FilePath "/path/to/macho" //导入的文件位置
 
 uint64_t FilegetSize(char *file_path);
 uint64_t FilegetSize(char *file_path){
