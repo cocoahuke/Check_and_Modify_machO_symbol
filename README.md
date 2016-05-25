@@ -7,4 +7,4 @@ http://cocoahuke.com/2016/05/25/MachO%E6%96%87%E4%BB%B6%E7%9A%84%E7%AC%A6%E5%8F%
 
 这个项目并没有提供命令行参数形式,所以请自行在Xcode编译运行
 
-![Jekyll Now Theme Screenshot](/a.png)
+![Jekyll Now Theme Screenshot](/a.jpg)
